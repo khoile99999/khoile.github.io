@@ -9,7 +9,7 @@
 **Research Assistant @ PUPS Research Group, University of Alberta (_May 2025 - Present_)**
 - Coming Soon :))
 
-**Seminar Faciliator @ SCI 201, University of Alberta (_September 2024 - May 2025_)**
+**Seminar Faciliator @ [SCI 201](https://apps.ualberta.ca/catalogue/course/sci/201), University of Alberta (_September 2024 - May 2025_)**
 - Coming Soon :))
 
 **Student Researcher @ EdTeKLA Research Group, University of Alberta (_May 2024 - September 2024_)**
