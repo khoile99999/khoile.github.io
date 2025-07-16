@@ -5,7 +5,7 @@
 ## Education		        		
 - BSc. in Computing Science with English Studies minor | University of Alberta
 
-## Experience
+## Experiences
 **Research Assistant @ [PUPS Research Group](https://bkacsmar.github.io//pups/), University of Alberta (_May 2025 - Present_)**
 - Coming Soon :))
 
