@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, SQL, MATLAB
 
-## Education		        		
+## <ins> Education   </ins>   		
 - BSc. in Computing Science with English Studies minor | University of Alberta
 
 ## Experiences
