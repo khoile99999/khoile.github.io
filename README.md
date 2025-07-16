@@ -2,10 +2,10 @@
 
 #### Technical Skills: Python, SQL, MATLAB
 
-## <ins> Education   </ins>   		
+## <ins> Education </ins>   		
 - BSc. in Computing Science with English Studies minor | University of Alberta
 
-## Experiences
+## <ins> Experiences </ins>
 **Research Assistant @ [PUPS Research Group](https://bkacsmar.github.io//pups/), University of Alberta (_May 2025 - Present_)**
 - Coming Soon :))
 
@@ -15,8 +15,8 @@
 **Student Researcher @ [EdTeKLA Research Group](https://spaces.facsci.ualberta.ca/edtekla/), University of Alberta (_May 2024 - September 2024_)**
 - Coming Soon :))
 
-## Projects
+## <ins> Projects </ins>
 Coming Soon :))
 
-## Talks & Presentations
+## <ins> Talks & Presentations </ins>
 Coming Soon :))
