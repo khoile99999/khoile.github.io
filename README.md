@@ -1,4 +1,4 @@
-# Computing Science
+# Computer Scientist
 
 #### Technical Skills: Python, SQL, MATLAB
 
