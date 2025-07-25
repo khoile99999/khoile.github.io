@@ -1,6 +1,6 @@
 # Computer Scientist
 
-[Highly Qualified Personnel (HQP)](https://bkacsmar.github.io//pups/)
+[Highly Qualified Personnel (HQP)](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/Policies-Politiques/assessment_of_contributions-evaluation_des_contributions_eng.asp)
 
 #### Technical Skills: Python, SQL, MATLAB
 
