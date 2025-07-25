@@ -1,6 +1,6 @@
 # Computer Scientist
 
-[PUPS Research Group](https://bkacsmar.github.io//pups/)
+[Highly Qualified Personnel (HQP)](https://bkacsmar.github.io//pups/)
 
 #### Technical Skills: Python, SQL, MATLAB
 
