@@ -2,7 +2,7 @@
 
 [Highly Qualified Personnel (HQP)](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/Policies-Politiques/assessment_of_contributions-evaluation_des_contributions_eng.asp)
 
-#### Technical Skills: Python, SQL, MATLAB
+#### Technical Skills: Python, C++, Java, Julia, SQL, SPSS, MATLAB
 
 ## <ins> Education </ins>   		
 - BSc. in Computing Science with English Studies minor | University of Alberta
