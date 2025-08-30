@@ -8,7 +8,7 @@
 - BSc. in Computing Science with English Studies minor | University of Alberta
 
 ## <ins> Experiences </ins>
-**Research Assistant @ [PUPS Research Group](https://bkacsmar.github.io//pups/), University of Alberta (_May 2025 - Present_)**
+**Research Assistant @ [PUPS Research Group](https://bkacsmar.github.io//pups/), University of Alberta (_May 2025 - September 2025_)**
 - Coming Soon :))
 
 **Seminar Faciliator @ [SCI 201](https://apps.ualberta.ca/catalogue/course/sci/201), University of Alberta (_September 2024 - May 2025_)**
