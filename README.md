@@ -1,4 +1,4 @@
-# Computer Scientist
+# Computer Scientist | Research Analyst
 
 [Highly Qualified Personnel (HQP)](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/Policies-Politiques/assessment_of_contributions-evaluation_des_contributions_eng.asp)
 
