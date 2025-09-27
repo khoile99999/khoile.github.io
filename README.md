@@ -10,15 +10,15 @@
 
 ## <ins> Experiences </ins>
 **Research Assistant @ [PUPS Research Group](https://bkacsmar.github.io//pups/), University of Alberta**
-**(_May 2025 - September 2025_)**
+**(_May 2025 - August 2025_)**
 - Coming Soon :))
 
 **Seminar Faciliator @ [SCI 201](https://apps.ualberta.ca/catalogue/course/sci/201), University of Alberta**
-**(_September 2024 - May 2025_)**
+**(_September 2024 - April 2025_)**
 - Coming Soon :))
 
 **Student Researcher @ [EdTeKLA Research Group](https://spaces.facsci.ualberta.ca/edtekla/), University of Alberta**
-**(_May 2024 - September 2024_)**
+**(_May 2024 - August 2024_)**
 - Coming Soon :))
 
 ## <ins> Projects </ins>
