@@ -20,4 +20,4 @@
 - Coming Soon :))
 
 ## <ins> Featured Publications </ins>
-[1] **(Le, K.)** (2025). A critique of John Frow’s popular culture through the lens of gamification. Writing across the University of Alberta, 6, 9–12. https://doi.org/10.29173/writingacrossuofa83 
+[1] **(Le, K.)** (2025). A critique of John Frow’s popular culture through the lens of gamification. Writing across the University of Alberta, 6, 9–12. [https://doi.org/10.29173/writingacrossuofa83](https://writingacrossuofa.ca/index.php/writingacrossuofa/article/view/83)
