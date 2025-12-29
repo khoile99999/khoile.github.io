@@ -7,6 +7,10 @@
 - BSc. in Computing Science with English Studies minor | University of Alberta
 
 ## <ins> Experiences </ins>
+**AI Accelerator Talent @ [Alberta Machine Intelligence Institute](https://www.amii.ca/), AMII**
+**(_May 2025 - December 2025_)**
+- Coming Soon :))
+
 **Research Assistant @ [PUPS Research Group](https://bkacsmar.github.io//pups/), University of Alberta**
 **(_May 2025 - August 2025_)**
 - Coming Soon :))
