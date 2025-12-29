@@ -24,7 +24,7 @@
 - Coming Soon :))
 
 **Instructor @ [DiscoverE, Faculty of Engineering](https://www.ualberta.ca/en/engineering/community-giving/discovere-camps/index.html), University of Alberta**
-**(_May 2024 - August 2024_)**
+**(_June 2023 - August 2023_)**
 - Coming Soon :))
 
 ## <ins> Featured Publications </ins>
